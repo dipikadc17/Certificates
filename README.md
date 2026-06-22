@@ -15,4 +15,4 @@
 I'm a BE Computer Engineering student passionate about AI and Machine Learning. 
 This repository showcases my professional certifications.
 
-- 🔗 [LinkedIn](https://www.linkedin.com/feed/)
+-  [LinkedIn](https://www.linkedin.com/in/dipika-dc-5929542b9/)
