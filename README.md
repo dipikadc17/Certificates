@@ -6,7 +6,7 @@
 - **Issuer:** Google (via Coursera)
 - **Date:** June 22, 2026
 - **Grade:** 100%
-- **Verify:** [Click here to verify](https://coursera.org/verify/WARL927490H)
+- **Verify:** [Click here to verify](https://www.coursera.org/account/accomplishments/verify/WARL92749OHJ)
 
 ![Introduction to AI Certificate](./Introduction_to_AI.png)
 
