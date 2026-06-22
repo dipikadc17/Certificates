@@ -15,4 +15,4 @@
 I'm a BE Computer Engineering student passionate about AI and Machine Learning. 
 This repository showcases my professional certifications.
 
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
+- 🔗 [LinkedIn](https://www.linkedin.com/feed/)
