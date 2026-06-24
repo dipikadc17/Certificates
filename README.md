@@ -9,7 +9,10 @@
 - **Verify:** [Click here to verify](https://www.coursera.org/account/accomplishments/verify/WARL92749OHJ)
 
 ---
-
+### ✅ Maximize Productivity With AI Tools
+- **Issuer:** Google (via Coursera)
+- **Date:** 2026
+- **Verify:** [Click here to verify](https://coursera.org/verify/POAFX9INAY1E)
 ### About Me
 I'm a BE Computer Engineering student passionate about AI and Machine Learning. 
 This repository showcases my professional certifications.
